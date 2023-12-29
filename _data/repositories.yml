@@ -1,12 +1,5 @@
 github_users:
   - aqpower
-  - alshedivat
 
 github_repos:
   - aqpower/EasyBook
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
