@@ -1,9 +1,9 @@
 github_users:
-  - torvalds
+  - aqpower
   - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
+  - aqpower/EasyBook
   - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery
