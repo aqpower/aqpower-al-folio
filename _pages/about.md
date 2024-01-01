@@ -21,4 +21,4 @@ I am Xiao Jiong (肖炯 in Chinese), a third-year undergraduate majoring in Comp
 
 My research interests focus on **web design** and **computer architecture**.
 
-Here is my [CV](https://me.aqpower.cn).
+Here is my [CV](https://cv.aqpower.cn).
